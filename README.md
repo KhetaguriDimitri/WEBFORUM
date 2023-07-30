@@ -11,12 +11,6 @@
 <a href="https://hackers.ge" target="_blank" rel="noopener noreferrer">
   <img style="max-width: 100%;" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif" alt="Hackers.ge">
 </a>
-     </p>
-   <p align="center">
-<a href="https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_00E51KANBK" target="_blank" rel="noopener noreferrer">
-  <img style="max-width: 100%;" src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif" alt="CryptoERA">
-</a>
-     </p>
 
 <p align="center">
 Profiles
