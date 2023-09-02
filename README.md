@@ -39,3 +39,15 @@ Profiles
 <p align="center">
   <a href="https://cybergovs.com" target="_blank">CYBERGOVS
 </p>
+
+<p align="center">
+  <a href="https://cracked.io/g30rg14n" target="_blank">Cracked
+</p>
+
+<p align="center">
+  <a href="https://cybhack.net/members/156741" target="_blank">CybHack
+</p>
+
+<p align="center">
+  <a href="https://www.overclockers.ge/index.php?/profile/48806-g30rg14n/&tab=field_core_pfield_21" target="_blank">OverClockers
+</p>
